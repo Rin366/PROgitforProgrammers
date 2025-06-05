@@ -1,2 +1,0 @@
-# PROgitforProgrammers
-A demonstration program
